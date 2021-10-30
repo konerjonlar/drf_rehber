@@ -1,3 +1,5 @@
+#orginal repo https://github.com/AlperAKBAS/djangorestframework_desleri_bolum_1
+#Kullanılan komutların detaylı açıklaması yapılması amacıyla bu repoyu oluşturdum
 # Django RestFramework Dersleri - Bölüm 1
 BU DİZİN YOUTUBE DERSLERİ İÇİN YARATILMIŞTIR.
 VİDEO TUTORIAL SERİSİ İÇİN LİNK:  [Django RestFramework Dersleri - Bölüm 1 - YouTube](https://www.youtube.com/playlist?list=PLtf2C1UGjgPBgBLXvS61dDYJodJ4qhBRi)
